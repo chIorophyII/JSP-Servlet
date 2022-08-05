@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Fri Aug 05 15:11:00 KST 2022
+org.eclipse.jst.jee.server\:JSPProject=C\:\\Users\\Owner\\Desktop\\dabinh\\Spring\\apache-tomcat-9.0.65\\wtpwebapps\\JSPProject
+org.eclipse.jst.jee.server\:ServletProject=C\:\\Users\\Owner\\Desktop\\dabinh\\Spring\\apache-tomcat-9.0.65\\wtpwebapps\\ServletProject
+org.eclipse.jst.jee.server\:ServletMapping=C\:\\Users\\Owner\\Desktop\\dabinh\\Spring\\apache-tomcat-9.0.65\\wtpwebapps\\ServletMapping
